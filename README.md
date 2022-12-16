@@ -1,4 +1,4 @@
-# Left_Atrium_Segmentation
+# Left Atrium Cavity and Wall Segmentation
 
 Left Atrium segmentation from LGE-MRI is the initial step for diagnosing left atrial fibrosis. However, because of the varying image quality and the
 different shapes of the left atrium, deep learning methods are gaining more attention on left atrium segmentation. So, we analyzed the deep learning
@@ -24,8 +24,8 @@ As it is a benchmark research, for Left Atrium segmentation and wall segmentatio
 - DeepLabV3
 
 ## Results
-![images](Left Atrium Segmentation/prediction.png)
-![table](Left Atrium Segmentation/table-2.jpg)
+![images](./LA_Cavity_Segmentation/prediction.png)
+![table](./LA_Wall_Segmentation/table-2.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
