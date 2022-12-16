@@ -29,6 +29,8 @@ set of images shown are for Unet, Unet++, MANet and DeepLab V3 respectively:
 ![images](./LA_Cavity_Segmentation/prediction.png)
  Performance evaluation on different metrics (Dice Score, IOU Score, Hausdorff Distance, Average Surface Distance:
 ![table](./LA_Cavity_Segmentation/table-2.jpg)
+LA Wall Prediction for Unet (Testing Data):
+![wall](./LA_Wall_Segmentation/prediction_wall.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
