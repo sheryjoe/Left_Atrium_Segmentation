@@ -9,12 +9,27 @@ other medical imaging analysis.
 
 
 ## Table of Contents
-* [Methods](#Methods)
-* [Results](#results)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Methods](#Methods)
+* [Results](#results)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+
+## Setup
+Project requirements/dependencies:
+- PyTorch
+- Albumentation
+- [Segmentation PyTorch Library](https://github.com/qubvel/segmentation_models.pytorch)
+PyPI version:
+`$ pip install segmentation-models-pytorch`
+- Monai
+
+## Usage
+First Download the dataset of MICCAI Atrial Segmentation Challenge 2018.
+
+Then install Jupyter Notebook to run [LA Cavity Segmentation](./LA_Cavity_Segmentation/customize_atrial_segmentation.ipynb) 
+and [LA Wall Segmentation](./LA_Wall_Segmentation/test_unet_wall.ipynb)
 
 ## Methods
 As it is a benchmark research, for Left Atrium segmentation and wall segmentation the following methods were used:
