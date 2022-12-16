@@ -24,8 +24,8 @@ As it is a benchmark research, for Left Atrium segmentation and wall segmentatio
 - DeepLabV3
 
 ## Results
-![Example screenshot](./Left Atrium Segmentation/prediction.png)
-![Example screenshot1](./Left Atrium Segmentation/table-2.jpg)
+![Example screenshot](Left Atrium Segmentation/prediction.png)
+![Example screenshot1](Left Atrium Segmentation/table-2.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
