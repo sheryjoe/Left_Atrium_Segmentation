@@ -24,8 +24,11 @@ As it is a benchmark research, for Left Atrium segmentation and wall segmentatio
 - DeepLabV3
 
 ## Results
+Prediction for testing dataset's Patient-3's 43rd slice with associated prediction mask and ground truth. Here every 3 image is a set and the
+set of images shown are for Unet, Unet++, MANet and DeepLab V3 respectively:
 ![images](./LA_Cavity_Segmentation/prediction.png)
-![table](./LA_Wall_Segmentation/table-2.jpg)
+ Performance evaluation on different metrics (Dice Score, IOU Score, Hausdorff Distance, Average Surface Distance:
+![table](./LA_Cavity_Segmentation/table-2.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
