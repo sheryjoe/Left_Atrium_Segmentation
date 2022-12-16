@@ -24,16 +24,12 @@ As it is a benchmark research, for Left Atrium segmentation and wall segmentatio
 - DeepLabV3
 
 ## Results
-Results of LA segmentation:
 ![Example screenshot](./Left Atrium Segmentation/prediction.png)
-Prediction for testing dataset's Patient-3's 43rd slice with associated prediction mask and ground truth. Here every 3 image is a set and the
-set of images shown are for Unet, Unet++, MANet and DeepLab V3 respectively.
-
 ![Example screenshot1](./Left Atrium Segmentation/table-2.jpg)
-Performance evaluation on different metrics (Dice Score, IOU Score, Hausdorff Distance, Average Surface Distance
+<!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
-- This project was conducted under the supervision of Dr. Shiren Elhabian
+- This project was conducted under the supervision of Dr. Shireen Elhabian
 - Pre-trained models was based on [Segmentation PyTorch Library](https://github.com/qubvel/segmentation_models.pytorch)
 
 ## Contact
