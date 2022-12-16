@@ -27,7 +27,8 @@ PyPI version:
 
 ## Usage
 First Download the dataset of MICCAI Atrial Segmentation Challenge 2018.
-
+Slice 3D MR images using:
+`$ python3 slice_image_mask.py`
 Then install Jupyter Notebook to run [LA Cavity Segmentation](./LA_Cavity_Segmentation/customize_atrial_segmentation.ipynb) 
 and [LA Wall Segmentation](./LA_Wall_Segmentation/test_unet_wall.ipynb)
 
